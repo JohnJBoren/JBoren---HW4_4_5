@@ -1,0 +1,3 @@
+﻿  MIndReader.cpp
+c:\users\johnb\source\repos\mindreader\mindreader\hashtable.h(339): warning C4715: 'HashTable<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::Count': not all control paths return a value
+  MIndReader.vcxproj -> C:\Users\johnb\source\repos\MIndReader\Debug\MIndReader.exe
